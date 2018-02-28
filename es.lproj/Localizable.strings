@@ -247,11 +247,11 @@
 "Live Goals" = "Goles en vivo";
 "Half Time Scores" = "Resultados al descanso";
 "Full Time Scores" = "Marcadores al final del tiempo reglamentario";
-"\nWith your full access subscription you can view all data for all matches. By selecting teams below you will receive push notifications for those team's matches in the competitions covered by the app." = "\ nCon su suscripción de acceso completo, puede ver todos los datos de todas las coincidencias. Al seleccionar los equipos a continuación, recibirás notificaciones push para los partidos de ese equipo en las competiciones cubiertas por la aplicación.";
-"\nYou'll be able to view all data and receive push notifications for your selected team's matches in the competitions covered by the app." = "\ nPodrá ver todos los datos y recibir notificaciones automáticas para los partidos de su equipo seleccionado en las competiciones cubiertas por la aplicación.";
+"\nWith your full access subscription you can view all data for all matches. By selecting teams below you will receive push notifications for those team's matches in the competitions covered by the app." = "\nCon su suscripción de acceso completo, puede ver todos los datos de todas las coincidencias. Al seleccionar los equipos a continuación, recibirás notificaciones push para los partidos de ese equipo en las competiciones cubiertas por la aplicación.";
+"\nYou'll be able to view all data and receive push notifications for your selected team's matches in the competitions covered by the app." = "\nPodrá ver todos los datos y recibir notificaciones automáticas para los partidos de su equipo seleccionado en las competiciones cubiertas por la aplicación.";
 "About the App" = "Sobre la aplicación";
 "Academy" = "Academia";
-"Access to the %@ v %@ match is not available under your current %@ subscription.\n\nAll subscriptions have a one calendar year duration from the date of purchase.\n\nTo upgrade your subscription, please choose one of the options below:" = "El acceso a la coincidencia% @ v% @ no está disponible en su suscripción% @ actual. \ N \ nTodas las suscripciones tienen una duración de un año calendario a partir de la fecha de compra. \ N \ nPara actualizar su suscripción, elija una de las opciones abajo:";
+"Access to the %@ v %@ match is not available under your current %@ subscription.\n\nAll subscriptions have a one calendar year duration from the date of purchase.\n\nTo upgrade your subscription, please choose one of the options below:" = "El acceso a la coincidencia% @ v% @ no está disponible en su suscripción% @ actual. \n \nTodas las suscripciones tienen una duración de un año calendario a partir de la fecha de compra. \n \nPara actualizar su suscripción, elija una de las opciones abajo:";
 "All Matches" = "Todos los partidos";
 "App Introduction" = "Introducción a la aplicación";
 "App Patron" = "Patron de aplicación";
@@ -324,7 +324,7 @@
 "Persistent Infringement" = "Infracción persistente";
 "Pinch with two fingers to select a specific time period" = "Pellizcar con dos dedos para seleccionar un período de tiempo específico";
 "Please ensure you have a working internet connection and try again." = "Por favor, asegúrese de tener una conexión a Internet en funcionamiento y vuelva a intentarlo.";
-"Previous season matches can be viewed for free, you can browse the archive in the Competitions tab.\n\nPlease consider purchasing a subscription to access this season's matches and support the app!" = "Los partidos de la temporada anterior se pueden ver de forma gratuita, puedes navegar por el archivo en la pestaña de Competiciones. \ N \ nPor favor, considera comprar una suscripción para acceder a los partidos de esta temporada y apoyar la aplicación.";
+"Previous season matches can be viewed for free, you can browse the archive in the Competitions tab.\n\nPlease consider purchasing a subscription to access this season's matches and support the app!" = "Los partidos de la temporada anterior se pueden ver de forma gratuita, puedes navegar por el archivo en la pestaña de Competiciones. \n \nPor favor, considera comprar una suscripción para acceder a los partidos de esta temporada y apoyar la aplicación.";
 "Privacy Policy" = "Política de privacidad";
 "Pro" = "Pro";
 "Professional Foul" = "Foul profesional";
@@ -349,7 +349,7 @@
 "Six Second Violation" = "Seis segunda violación";
 "Spitting" = "Escupir";
 "Stats Zone Blog" = "Blog de Stats Zone";
-"Stats Zone is an independent app and relies entirely on direct revenue from people like you.\n\nA subscription is required to access live matches and all matches in a league or competition which is still in progress. All subscriptions have a one calendar year duration from the date of purchase.\n\nPlease choose the option that best suits your interest level in football:" = "Stats Zone es una aplicación independiente y depende completamente de los ingresos directos de personas como usted. \ N \ nSe requiere una suscripción para acceder a los partidos en vivo y a todos los partidos en una liga o competencia que todavía esté en progreso. Todas las suscripciones tienen una duración de un año calendario a partir de la fecha de compra. \ N \ n Elija la opción que mejor se adapte a su nivel de interés en el fútbol:";
+"Stats Zone is an independent app and relies entirely on direct revenue from people like you.\n\nA subscription is required to access live matches and all matches in a league or competition which is still in progress. All subscriptions have a one calendar year duration from the date of purchase.\n\nPlease choose the option that best suits your interest level in football:" = "Stats Zone es una aplicación independiente y depende completamente de los ingresos directos de personas como usted. \n \nSe requiere una suscripción para acceder a los partidos en vivo y a todos los partidos en una liga o competencia que todavía esté en progreso. Todas las suscripciones tienen una duración de un año calendario a partir de la fecha de compra. \n \n Elija la opción que mejor se adapte a su nivel de interés en el fútbol:";
 "Stats Zone is the most in-depth live football stats app available.\nAnalyse every shot, pass, take-on, tackle, foul and much more." = "Stats Zone es la aplicación de estadísticas de fútbol en vivo más detallada disponible. Analiza cada golpe, pase, entrada, tackle, falta y mucho más.";
 "Subscribe now" = "Suscríbase ahora";
 "Subscribe Now!" = "¡Suscríbase ahora!";

@@ -248,10 +248,10 @@
 "Half Time Scores" = "สกอร์ครึ่งแรก";
 "Full Time Scores" = "สกอร์จบเกม";
 "\nWith your full access subscription you can view all data for all matches. By selecting teams below you will receive push notifications for those team's matches in the competitions covered by the app." = "คุณสามารถดูข้อมูลทั้งหมดสำหรับการจับคู่ทั้งหมดได้จากการสมัครสมาชิก Full Access ของคุณ เมื่อเลือกทีมด้านล่างคุณจะได้รับการแจ้งเตือนแบบพุชสำหรับการแข่งขันของทีมเหล่านั้นในการแข่งขันที่ครอบคลุมโดยแอป";
-"\nYou'll be able to view all data and receive push notifications for your selected team's matches in the competitions covered by the app." = "\ n คุณจะสามารถดูข้อมูลทั้งหมดและรับการแจ้งเตือนแบบพุชสำหรับการแข่งขันของทีมที่คุณเลือกไว้ในการแข่งขันที่แอปพลิเคชันกำหนดไว้";
+"\nYou'll be able to view all data and receive push notifications for your selected team's matches in the competitions covered by the app." = "\n คุณจะสามารถดูข้อมูลทั้งหมดและรับการแจ้งเตือนแบบพุชสำหรับการแข่งขันของทีมที่คุณเลือกไว้ในการแข่งขันที่แอปพลิเคชันกำหนดไว้";
 "About the App" = "เกี่ยวกับ App";
 "Academy" = "สถานศึกษา";
-"Access to the %@ v %@ match is not available under your current %@ subscription.\n\nAll subscriptions have a one calendar year duration from the date of purchase.\n\nTo upgrade your subscription, please choose one of the options below:" = "การเข้าถึง% @ v% @ match ไม่สามารถใช้งานได้ภายใต้การสมัคร% @ subscription ปัจจุบันของคุณ \ n \ n การสมัครสมาชิกทั้งหมดมีระยะเวลาปีปฏิทินหนึ่งปีนับจากวันที่ซื้อ \ n \ n หากต้องการอัพเกรดการสมัครสมาชิกของคุณโปรดเลือกตัวเลือกใดตัวเลือกหนึ่ง ด้านล่าง:";
+"Access to the %@ v %@ match is not available under your current %@ subscription.\n\nAll subscriptions have a one calendar year duration from the date of purchase.\n\nTo upgrade your subscription, please choose one of the options below:" = "การเข้าถึง% @ v% @ match ไม่สามารถใช้งานได้ภายใต้การสมัคร% @ subscription ปัจจุบันของคุณ \n \n การสมัครสมาชิกทั้งหมดมีระยะเวลาปีปฏิทินหนึ่งปีนับจากวันที่ซื้อ \n \n หากต้องการอัพเกรดการสมัครสมาชิกของคุณโปรดเลือกตัวเลือกใดตัวเลือกหนึ่ง ด้านล่าง:";
 "All Matches" = "การแข่งขันทั้งหมด";
 "App Introduction" = "บทนำของแอป";
 "App Patron" = "App Patron";
@@ -324,7 +324,7 @@
 "Persistent Infringement" = "การละเมิดถาวร";
 "Pinch with two fingers to select a specific time period" = "ตรึงด้วยสองนิ้วเพื่อเลือกช่วงเวลาที่ต้องการ";
 "Please ensure you have a working internet connection and try again." = "โปรดตรวจสอบว่าคุณมีการเชื่อมต่ออินเทอร์เน็ตที่ใช้งานได้และลองอีกครั้ง";
-"Previous season matches can be viewed for free, you can browse the archive in the Competitions tab.\n\nPlease consider purchasing a subscription to access this season's matches and support the app!" = "คุณสามารถเรียกดูการแข่งขันในฤดูกาลก่อนหน้านี้ได้ฟรีคุณสามารถเรียกดูข้อมูลที่เก็บได้ในแท็บการแข่งขัน \ n \ n กรุณาพิจารณาซื้อการสมัครรับข้อมูลเพื่อเข้าชมการแข่งขันของฤดูกาลนี้และสนับสนุนแอปพลิเคชันนี้!";
+"Previous season matches can be viewed for free, you can browse the archive in the Competitions tab.\n\nPlease consider purchasing a subscription to access this season's matches and support the app!" = "คุณสามารถเรียกดูการแข่งขันในฤดูกาลก่อนหน้านี้ได้ฟรีคุณสามารถเรียกดูข้อมูลที่เก็บได้ในแท็บการแข่งขัน \n \n กรุณาพิจารณาซื้อการสมัครรับข้อมูลเพื่อเข้าชมการแข่งขันของฤดูกาลนี้และสนับสนุนแอปพลิเคชันนี้!";
 "Privacy Policy" = "นโยบายส่วนบุคคล";
 "Pro" = "มือโปร";
 "Professional Foul" = "อาชีพ Foul";
@@ -349,8 +349,8 @@
 "Six Second Violation" = "การละเมิดหกครั้งที่สอง";
 "Spitting" = "การคาย";
 "Stats Zone Blog" = "Blog โซนสถิติ";
-"Stats Zone is an independent app and relies entirely on direct revenue from people like you.\n\nA subscription is required to access live matches and all matches in a league or competition which is still in progress. All subscriptions have a one calendar year duration from the date of purchase.\n\nPlease choose the option that best suits your interest level in football:" = "Stats Zone เป็นแอปที่เป็นอิสระและอาศัยรายได้โดยตรงจากคนอย่างคุณ \ n \ n การสมัครสมาชิกต้องเข้าร่วมการแข่งขันสดและการแข่งขันทั้งหมดในลีกหรือการแข่งขันที่กำลังดำเนินอยู่ การสมัครรับข้อมูลทั้งหมดมีระยะเวลาหนึ่งปีปฏิทินจากวันที่ซื้อ \ n \ n กรุณาเลือกตัวเลือกที่เหมาะสมกับระดับความสนใจในฟุตบอลของคุณ:";
-"Stats Zone is the most in-depth live football stats app available.\nAnalyse every shot, pass, take-on, tackle, foul and much more." = "Stats Zone เป็นแอพพลิเคชันฟุตบอลสดแบบเจาะลึกมากที่สุด \ nAnalyse ทุกๆการถ่ายทำ, ผ่าน, รับต่อ, ต่อสู้, เหม็นและอื่น ๆ อีกมากมาย";
+"Stats Zone is an independent app and relies entirely on direct revenue from people like you.\n\nA subscription is required to access live matches and all matches in a league or competition which is still in progress. All subscriptions have a one calendar year duration from the date of purchase.\n\nPlease choose the option that best suits your interest level in football:" = "Stats Zone เป็นแอปที่เป็นอิสระและอาศัยรายได้โดยตรงจากคนอย่างคุณ \n \n การสมัครสมาชิกต้องเข้าร่วมการแข่งขันสดและการแข่งขันทั้งหมดในลีกหรือการแข่งขันที่กำลังดำเนินอยู่ การสมัครรับข้อมูลทั้งหมดมีระยะเวลาหนึ่งปีปฏิทินจากวันที่ซื้อ \n \n กรุณาเลือกตัวเลือกที่เหมาะสมกับระดับความสนใจในฟุตบอลของคุณ:";
+"Stats Zone is the most in-depth live football stats app available.\nAnalyse every shot, pass, take-on, tackle, foul and much more." = "Stats Zone เป็นแอพพลิเคชันฟุตบอลสดแบบเจาะลึกมากที่สุด \nAnalyse ทุกๆการถ่ายทำ, ผ่าน, รับต่อ, ต่อสู้, เหม็นและอื่น ๆ อีกมากมาย";
 "Subscribe now" = "สมัครสมาชิกเดี๋ยวนี้";
 "Subscribe Now!" = "สมัครสมาชิกวันนี้!";
 "Subscription" = "การสมัครสมาชิก";

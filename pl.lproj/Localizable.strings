@@ -247,11 +247,11 @@
 "Live Goals" = "Gole na żywo";
 "Half Time Scores" = "Wyniki po pierwszej połowie";
 "Full Time Scores" = "Wyniki po całym meczu";
-"\nWith your full access subscription you can view all data for all matches. By selecting teams below you will receive push notifications for those team's matches in the competitions covered by the app." = "\ nZ pełną subskrypcją dostępową możesz wyświetlić wszystkie dane dla wszystkich meczów. Wybierając poniższe drużyny otrzymasz powiadomienia push o meczach tych drużyn w konkursach objętych aplikacją.";
-"\nYou'll be able to view all data and receive push notifications for your selected team's matches in the competitions covered by the app." = "\ nMożesz wyświetlić wszystkie dane i otrzymywać powiadomienia push dla wybranych meczów drużyny w konkursach objętych przez aplikację.";
+"\nWith your full access subscription you can view all data for all matches. By selecting teams below you will receive push notifications for those team's matches in the competitions covered by the app." = "\nZ pełną subskrypcją dostępową możesz wyświetlić wszystkie dane dla wszystkich meczów. Wybierając poniższe drużyny otrzymasz powiadomienia push o meczach tych drużyn w konkursach objętych aplikacją.";
+"\nYou'll be able to view all data and receive push notifications for your selected team's matches in the competitions covered by the app." = "\nMożesz wyświetlić wszystkie dane i otrzymywać powiadomienia push dla wybranych meczów drużyny w konkursach objętych przez aplikację.";
 "About the App" = "O aplikacji";
 "Academy" = "Akademia";
-"Access to the %@ v %@ match is not available under your current %@ subscription.\n\nAll subscriptions have a one calendar year duration from the date of purchase.\n\nTo upgrade your subscription, please choose one of the options below:" = "Dostęp do dopasowania% @ v% @ nie jest dostępny w ramach bieżącej subskrypcji% @. \ N \ nWszystkie subskrypcje mają okres jednego roku kalendarzowego od daty zakupu. \ N \ nAby uaktualnić subskrypcję, wybierz jedną z opcji poniżej:";
+"Access to the %@ v %@ match is not available under your current %@ subscription.\n\nAll subscriptions have a one calendar year duration from the date of purchase.\n\nTo upgrade your subscription, please choose one of the options below:" = "Dostęp do dopasowania% @ v% @ nie jest dostępny w ramach bieżącej subskrypcji% @. \n \nWszystkie subskrypcje mają okres jednego roku kalendarzowego od daty zakupu. \n \nAby uaktualnić subskrypcję, wybierz jedną z opcji poniżej:";
 "All Matches" = "Wszystkie mecze";
 "App Introduction" = "Wprowadzenie do aplikacji";
 "App Patron" = "App Patron";
@@ -324,7 +324,7 @@
 "Persistent Infringement" = "Uporczywe naruszenie";
 "Pinch with two fingers to select a specific time period" = "Ściśnij dwoma palcami, aby wybrać określony okres czasu";
 "Please ensure you have a working internet connection and try again." = "Upewnij się, że masz działające połączenie internetowe i spróbuj ponownie.";
-"Previous season matches can be viewed for free, you can browse the archive in the Competitions tab.\n\nPlease consider purchasing a subscription to access this season's matches and support the app!" = "Mecze z poprzedniego sezonu można oglądać za darmo, możesz przeglądać archiwum na karcie Konkursy. \ N \ nProszę rozważyć zakup subskrypcji, aby uzyskać dostęp do meczów sezonu i obsługiwać aplikację!";
+"Previous season matches can be viewed for free, you can browse the archive in the Competitions tab.\n\nPlease consider purchasing a subscription to access this season's matches and support the app!" = "Mecze z poprzedniego sezonu można oglądać za darmo, możesz przeglądać archiwum na karcie Konkursy. \n \nProszę rozważyć zakup subskrypcji, aby uzyskać dostęp do meczów sezonu i obsługiwać aplikację!";
 "Privacy Policy" = "Polityka prywatności";
 "Pro" = "Zawodowiec";
 "Professional Foul" = "Zawodowy faul";
@@ -349,8 +349,8 @@
 "Six Second Violation" = "Sześciokrotne naruszenie";
 "Spitting" = "Plucie";
 "Stats Zone Blog" = "Blog Stref statystyki";
-"Stats Zone is an independent app and relies entirely on direct revenue from people like you.\n\nA subscription is required to access live matches and all matches in a league or competition which is still in progress. All subscriptions have a one calendar year duration from the date of purchase.\n\nPlease choose the option that best suits your interest level in football:" = "Strefa statystyk to niezależna aplikacja i zależy wyłącznie od bezpośrednich przychodów od osób takich jak Ty. \ N \ n Subskrypcja jest wymagana, aby uzyskać dostęp do meczów na żywo i wszystkich meczów w rozgrywkach ligowych lub turniejach, które są nadal w toku. Wszystkie subskrypcje mają okres jednego roku kalendarzowego od daty zakupu. \ N \ nProszę wybrać opcję, która najlepiej pasuje do twojego poziomu zainteresowania w piłce nożnej:";
-"Stats Zone is the most in-depth live football stats app available.\nAnalyse every shot, pass, take-on, tackle, foul and much more." = "Strefa statystyk to najdokładniejsza dostępna aplikacja statystyk piłkarskich na żywo. \ NZalecaj każdy rzut, podanie, atak, atak, faul i wiele więcej.";
+"Stats Zone is an independent app and relies entirely on direct revenue from people like you.\n\nA subscription is required to access live matches and all matches in a league or competition which is still in progress. All subscriptions have a one calendar year duration from the date of purchase.\n\nPlease choose the option that best suits your interest level in football:" = "Strefa statystyk to niezależna aplikacja i zależy wyłącznie od bezpośrednich przychodów od osób takich jak Ty. \n \n Subskrypcja jest wymagana, aby uzyskać dostęp do meczów na żywo i wszystkich meczów w rozgrywkach ligowych lub turniejach, które są nadal w toku. Wszystkie subskrypcje mają okres jednego roku kalendarzowego od daty zakupu. \n \nProszę wybrać opcję, która najlepiej pasuje do twojego poziomu zainteresowania w piłce nożnej:";
+"Stats Zone is the most in-depth live football stats app available.\nAnalyse every shot, pass, take-on, tackle, foul and much more." = "Strefa statystyk to najdokładniejsza dostępna aplikacja statystyk piłkarskich na żywo. \nZalecaj każdy rzut, podanie, atak, atak, faul i wiele więcej.";
 "Subscribe now" = "Zapisz się teraz";
 "Subscribe Now!" = "Zapisz się teraz!";
 "Subscription" = "Subskrypcja";

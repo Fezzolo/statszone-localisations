@@ -247,11 +247,11 @@
 "Live Goals" = "Live mål";
 "Half Time Scores" = "Pauseresultater";
 "Full Time Scores" = "Fulltidsresultater";
-"\nWith your full access subscription you can view all data for all matches. By selecting teams below you will receive push notifications for those team's matches in the competitions covered by the app." = "\ n Med ditt fulle tilgangsabonnement kan du se alle data for alle kampene. Ved å velge lag nedenfor vil du motta push notifications for de lagets kamper i konkurranser som dekkes av appen.";
-"\nYou'll be able to view all data and receive push notifications for your selected team's matches in the competitions covered by the app." = "\ nDu kan se alle data og motta push notifications for de valgte kampene dine i konkurranser som dekkes av appen.";
+"\nWith your full access subscription you can view all data for all matches. By selecting teams below you will receive push notifications for those team's matches in the competitions covered by the app." = "\n Med ditt fulle tilgangsabonnement kan du se alle data for alle kampene. Ved å velge lag nedenfor vil du motta push notifications for de lagets kamper i konkurranser som dekkes av appen.";
+"\nYou'll be able to view all data and receive push notifications for your selected team's matches in the competitions covered by the app." = "\nDu kan se alle data og motta push notifications for de valgte kampene dine i konkurranser som dekkes av appen.";
 "About the App" = "Om App";
 "Academy" = "Akademi";
-"Access to the %@ v %@ match is not available under your current %@ subscription.\n\nAll subscriptions have a one calendar year duration from the date of purchase.\n\nTo upgrade your subscription, please choose one of the options below:" = "Tilgang til% @ v% @ -kampen er ikke tilgjengelig under ditt nåværende% @ -abonnement. \ N \ nAlle abonnementer har et kalenderår i varighet fra kjøpsdatoen. \ N \ nFor å oppgradere abonnementet ditt, velg ett av alternativene under:";
+"Access to the %@ v %@ match is not available under your current %@ subscription.\n\nAll subscriptions have a one calendar year duration from the date of purchase.\n\nTo upgrade your subscription, please choose one of the options below:" = "Tilgang til% @ v% @ -kampen er ikke tilgjengelig under ditt nåværende% @ -abonnement. \n \nAlle abonnementer har et kalenderår i varighet fra kjøpsdatoen. \n \nFor å oppgradere abonnementet ditt, velg ett av alternativene under:";
 "All Matches" = "Alle kamper";
 "App Introduction" = "App Introduksjon";
 "App Patron" = "App patron";
@@ -324,7 +324,7 @@
 "Persistent Infringement" = "Vedvarende overtredelse";
 "Pinch with two fingers to select a specific time period" = "Klem med to fingre for å velge en bestemt tidsperiode";
 "Please ensure you have a working internet connection and try again." = "Sørg for at du har en fungerende Internett-tilkobling, og prøv igjen.";
-"Previous season matches can be viewed for free, you can browse the archive in the Competitions tab.\n\nPlease consider purchasing a subscription to access this season's matches and support the app!" = "Tidligere sesong-kamper kan ses gratis, du kan bla gjennom arkivet i kategorien Konkurranser. \ N \ nVelg å vurdere å kjøpe et abonnement for å få tilgang til denne sesongens kamper og støtte appen!";
+"Previous season matches can be viewed for free, you can browse the archive in the Competitions tab.\n\nPlease consider purchasing a subscription to access this season's matches and support the app!" = "Tidligere sesong-kamper kan ses gratis, du kan bla gjennom arkivet i kategorien Konkurranser. \n \nVelg å vurdere å kjøpe et abonnement for å få tilgang til denne sesongens kamper og støtte appen!";
 "Privacy Policy" = "Personvernregler";
 "Pro" = "Pro";
 "Professional Foul" = "Profesjonell Feil";
@@ -349,8 +349,8 @@
 "Six Second Violation" = "Seks andre brudd";
 "Spitting" = "spytting";
 "Stats Zone Blog" = "Stats Zone Blog";
-"Stats Zone is an independent app and relies entirely on direct revenue from people like you.\n\nA subscription is required to access live matches and all matches in a league or competition which is still in progress. All subscriptions have a one calendar year duration from the date of purchase.\n\nPlease choose the option that best suits your interest level in football:" = "Stats Zone er en uavhengig app og er helt avhengig av direkte inntekter fra personer som deg. \ N \ nA abonnement er nødvendig for å få tilgang til live-kamper og alle kamper i en liga eller konkurranse som fortsatt er i gang. Alle abonnementer har et kalenderår i varighet fra kjøpsdatoen. \ N \ nVelg alternativet som best passer ditt interessenivå i fotball:";
-"Stats Zone is the most in-depth live football stats app available.\nAnalyse every shot, pass, take-on, tackle, foul and much more." = "Stats Zone er den mest dype live fotballstatistikkapp tilgjengelig. \ NAnalyse hvert skudd, pass, take-on, takle, feil og mye mer.";
+"Stats Zone is an independent app and relies entirely on direct revenue from people like you.\n\nA subscription is required to access live matches and all matches in a league or competition which is still in progress. All subscriptions have a one calendar year duration from the date of purchase.\n\nPlease choose the option that best suits your interest level in football:" = "Stats Zone er en uavhengig app og er helt avhengig av direkte inntekter fra personer som deg. \n \nA abonnement er nødvendig for å få tilgang til live-kamper og alle kamper i en liga eller konkurranse som fortsatt er i gang. Alle abonnementer har et kalenderår i varighet fra kjøpsdatoen. \n \nVelg alternativet som best passer ditt interessenivå i fotball:";
+"Stats Zone is the most in-depth live football stats app available.\nAnalyse every shot, pass, take-on, tackle, foul and much more." = "Stats Zone er den mest dype live fotballstatistikkapp tilgjengelig. \nAnalyse hvert skudd, pass, take-on, takle, feil og mye mer.";
 "Subscribe now" = "Abonner nå";
 "Subscribe Now!" = "Abonner nå!";
 "Subscription" = "Abonnement";
