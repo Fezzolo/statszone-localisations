@@ -15,8 +15,8 @@
 "Articles" = "Articoli";
 "assist" = "Assist";
 "Ball Recovery" = "Palla recuperata";
-"Blocked" = "Parati";
-"Blocks" = "Tiri Bloccati";
+"Blocked" = "Respinti";
+"Blocks" = "Tiri blocchi";
 "Cancel" = "Annulla";
 "Chalkboard from another match" = "Lavagna di un'altra partita";
 "Choose player" = "Scegli giocatore";
@@ -33,7 +33,7 @@
 "Defenders" = "Difensori";
 "Errors" = "Errori";
 "Event Key" = "Evento leggenda";
-"Failed" = "Non riuscito";
+"Failed" = "Sbagliato";
 "Followed Teams" = "Squadre che segui";
 "Forwards" = "Attaccanti";
 "Fouls" = "Falli";
@@ -70,7 +70,7 @@
 "Notification" = "Notifiche";
 "Notifications" = "Notifiche Stats Zone";
 "o.g." = "A";
-"Off Target" = "Tiri fuori";
+"Off Target" = "Fuori";
 "Ok" = "Ok";
 "OK" = "OK";
 "On Target" = "In porta";
@@ -108,7 +108,7 @@
 "Suffered" = "Subiti";
 "Supported Teams" = "Squadre che tifi";
 "Table" = "Tabella";
-"Tackles" = "Tackle";
+"Tackles" = "Tackles";
 "Take-Ons" = "Dribbling";
 "Team Comparison" = "Confronto squadre";
 "Team Notifications" = "Notifiche squadra\n";
@@ -133,7 +133,7 @@
 "Big Chance" = "Grandi opportunità";
 "Big Chances Created" = "Grandi opportunità create";
 "Passes Inside Penalty Area" = "Passaggi dentro l'area di rigore";
-"Penalty" = "Rigore";
+"Penalty" = "Rigori";
 "Own Goals" = "Autogol";
 "Inside Penalty Area" = "Dentro l'area di rigore";
 "Outside Penalty Area" = "Fuori dall'area di rigore";
@@ -178,14 +178,14 @@
 "All (Dashboard)" = "Tutto (Pannello)";
 "Take-ons" = "Dribbling";
 "Ball recoveries" = "Palle recuperate";
-"Attacking Third Passes" = "Passaggi in zona di attacco";
+"Attacking Third Passes" = "Passaggi nella trequarti offensiva";
 "Crosses" = "Cross";
-"Corners" = "Angoli";
+"Corners" = "Calci d'angolo";
 "Offside Passes" = "Passaggi in fuori gioco";
 "Interceptions" = "Anticipi";
 "Clearances" = "Disimpegni";
-"Headed Clearances" = "Disimpegno di testa";
-"Blocked Crosses" = "Cross parato";
+"Headed Clearances" = "Disimpegni di testa";
+"Blocked Crosses" = "Cross bloccati";
 "Errors leading to shot" = "Errori che hanno portato al tiro";
 "Errors leading to goal" = "Errori che hanno portato al gol";
 "Yellow Cards" = "Cartellini gialli";
@@ -215,9 +215,9 @@
 "Take Ons" = "Dribbling";
 "Team Stats" = "Statistiche squadra";
 "Top Players - Attacking Aerial Duels" = "Top player - Duelli aerei in zona di attacco";
-"Top Players - Attacking Third Passes" = "Top player - Passaggi in zona di attacco";
+"Top Players - Attacking Third Passes" = "Top player - Passaggi nella trequarti offensiva";
 "Top Players - Ball Recoveries" = "Top player - Palle recuperate";
-"Top Players - Blocked Crosses" = "Top player - Cross parato";
+"Top Players - Blocked Crosses" = "Top player - Cross bloccati";
 "Top Players - Blocks" = "Top player - Tiri Bloccati";
 "Top Players - Chances Created" = "Top player - Occasioni create";
 "Top Players - Clearances" = "Top player - Disimpegni";
@@ -227,7 +227,7 @@
 "Top Players - Fouls Suffered" = "Top player - Falli subiti";
 "Top Players - Headed Clearances" = "Top player - Disimpegno di testa";
 "Top Players - Interceptions" = "Top player - Anticipi";
-"Top Players - Tackles" = "Top player - Tackle";
+"Top Players - Tackles" = "Top player - Tackles";
 "Top Players - Take Ons" = "Top player - Dribbling";
 "Australian A-League" = "Australian A-League";
 "Bundesliga" = "Bundesliga";
