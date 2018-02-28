@@ -413,3 +413,12 @@
 "Shanghai SIPG" = "上海上港";
 "Tianjin Quanjian" = "天津权健";
 "Tianjin Teda" = "天津泰达";
+"Attacking Third (Succeeded)" = "前場 (成功)";
+"Defensive Third (Succeeded)" = "後場 (成功)";
+"Middle Third (Succeeded)" = "中場 (成功)";
+"Inside Penalty Area (Succeeded)" = "禁區內 (成功)";
+"Long (Succeeded)" = "長傳 (成功)";
+"Short (Succeeded)" = "短傳 (成功)";
+"Forward (Succeeded)" = "向前 (成功)";
+"Backward (Succeeded)" = "向後 (成功)";
+"Square (Succeeded)" = "橫傳 (成功)";
