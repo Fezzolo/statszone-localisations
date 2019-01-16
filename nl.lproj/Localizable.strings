@@ -351,6 +351,9 @@
 "Stats Zone Blog" = "Stats Zone Blog";
 "Stats Zone is an independent app and relies entirely on direct revenue from people like you.\n\nA subscription is required to access live matches and all matches in a league or competition which is still in progress. All subscriptions have a one calendar year duration from the date of purchase.\n\nPlease choose the option that best suits your interest level in football:" = "Stats Zone is een onafhankelijke app en vertrouwt volledig op directe inkomsten van mensen zoals jij. \n \nEen abonnement is vereist om toegang te krijgen tot live wedstrijden en alle wedstrijden in een competitie of competitie die nog gaande is. Alle abonnementen hebben een duur van één kalenderjaar vanaf de datum van aankoop. \n \nKies alstublieft de optie die het beste past bij uw interesse in voetbal:";
 "Stats Zone is the most in-depth live football stats app available.\nAnalyse every shot, pass, take-on, tackle, foul and much more." = "Statistieken Zone is de meest diepgaande live voetbalstatistieken-app beschikbaar. \nAnalyse elke opname, pass, take-on, tackle, foul en nog veel meer.";
+"Analyse every shot, pass, take-on, tackle, foul and much more" = "Analyse elke opname, pass, take-on, tackle, foul en nog veel meer";
+"Compare team v team and player v player" = "Vergelijk team v team en player v player";
+"Save chalkboard images or post them directly to your followers" = "Sla schoolbordafbeeldingen op of plaats ze rechtstreeks bij uw volgers";
 "Subscribe now" = "Abonneer nu";
 "Subscribe Now!" = "Abonneer nu!";
 "Subscription" = "Abonnement";
@@ -422,4 +425,21 @@
 "Forward (Succeeded)" = "Naar voren (Geslaagd)";
 "Backward (Succeeded)" = "Naar achteren (Geslaagd)";
 "Square (Succeeded)" = "Breed (Geslaagd)";
-
+"No" = "Nee";
+"one off payment" = "eenmalige betaling";
+"only" = "enkel en alleen";
+"Open Settings now" = "Open nu Instellingen";
+"per year" = "per jaar";
+"Purchase Successful!" = "Aankoop succesvol!";
+"Push Notifications" = "Push-meldingen";
+"Restore" = "Herstellen";
+"Subscribe to unlock all competitions" = "Abonneer je om alle competities te ontgrendelen";
+"The result is not all that matters" = "Het resultaat is niet het enige dat ertoe doet";
+"Unlock" = "ontsluiten";
+"Unlock competition only" = "Ontgrendel alleen de concurrentie";
+"Unlock Content" = "Ontgrendel inhoud";
+"Would you like to receive Stats Zone's stats and analysis via push notifications?" = "Wilt u de statistieken en analyse van Stats Zone ontvangen via pushmeldingen?";
+"You can enable push notifications in the Settings app" = "Je kunt pushmeldingen inschakelen in de app Instellingen";
+"Your purchase has been applied successfully." = "Uw aankoop is succesvol toegepast.";
+"Get Stats Zone's unique push notifications for matches involving teams you support of follow by selecting them below." = "Ontvang de unieke pushmeldingen van Stats Zone voor wedstrijden waaraan teams deelnemen die je ondersteunt, volg ze door ze hieronder te selecteren.";
+"Share debug info" = "Deel foutopsporingsinformatie";

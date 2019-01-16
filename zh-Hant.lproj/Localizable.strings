@@ -1,424 +1,894 @@
+/*
+   @LANGUAGE zh-Hant 
+   @DIRECTORY StatsZone/Localization 
+   @FILE Localizable.strings 
+*/
+
 "%@ - %@ events" = "%@ - %@賽事";
+
 "%@ - 1 event" = "%@ - 1賽事";
-"%@ of %@ successful" = "%@/ %@成功";
+
+"%@ of %@ successful" = "%@/%@成功";
+
 "+" = "+";
+
 "+/-" = "+/-";
+
 "-" = "-";
-"Add to Followed Teams" = "添加到關注的球隊";
+
+"Add to Followed Teams" = "添加到關註的球隊";
+
 "Add to Supported Teams" = "添加到支持的球隊";
-"Aerial Duels" = "爭搶頭球";
-"AET" = "延長賽後";
-"After Extra Time" = "延長賽後";
-"After Extra Time & Penalties: %@-%@" = "延長賽和點球後： %@-%@";
+
+"Aerial Duels" = "爭頂";
+
+"AET" = "加時賽後";
+
+"After Extra Time" = "加時賽後";
+
+"After Extra Time & Penalties: %@-%@" = "加時賽和點球大戰後： %@-%@";
+
 "All Teams" = "所有球隊";
+
 "Analysis" = "分析";
+
 "Articles" = "文章";
+
 "assist" = "助攻";
+
 "Ball Recovery" = "反搶";
-"Blocked" = "封堵";
+
+"Blocked" = "搶斷";
+
 "Blocks" = "封堵";
+
 "Cancel" = "取消";
-"Chalkboard from another match" = "來自另一場比賽的戰術黑板";
+
+"Chalkboard from another match" = "往賽戰術板";
+
 "Choose player" = "選擇球員";
-"Choose Your Teams" = "選擇球隊";
+
+"Choose Your Teams" = "選擇妳關註的球隊";
+
 "Clearance" = "解圍";
+
 "Close" = "關閉";
+
 "Committed" = "犯規次數";
+
 "Compare" = "比較";
-"Compare Teams" = "比較球隊";
+
+"Compare Teams" = "球隊對比";
+
 "Competitions" = "賽事";
+
 "Cross" = "傳中";
+
 "D" = "平";
-"Dashboard" = "控制台";
+
+"Dashboard" = "戰術板";
+
 "Defenders" = "後衛";
+
 "Errors" = "失誤";
-"Event Key" = "關鍵賽事";
+
+"Event Key" = "關鍵賽況";
+
 "Failed" = "失敗";
-"Followed Teams" = "關注的球隊";
+
+"Followed Teams" = "關註的球隊";
+
 "Forwards" = "前鋒";
+
 "Fouls" = "犯規";
+
 "FT" = "全場";
-"FTET" = "全場-延長賽";
+
+"FTET" = "全場-加時賽";
+
 "Full Time" = "全場";
-"Full Time Extra Time" = "全場-延長賽";
+
+"Full Time Extra Time" = "全場-加時賽";
+
 "Goal" = "進球";
+
 "Goal Assist" = "進球助攻";
+
 "Goal Buildup" = "進球組織";
+
 "Goalkeeper" = "門將";
+
 "Goals & Penalties" = "進球和點球";
+
 "Half Time" = "半場";
-"Half Time Extra Time" = "半場-延長賽";
+
+"Half Time Extra Time" = "半場-加時賽";
+
 "HT" = "半場";
-"HTET" = "半場-延長賽";
-"Image" = "圖像";
-"In Depth Stats" = "深度統計";
-"Individual Player Stats" = "球員個人統計";
-"Individual Players" = "球員個人";
+
+"HTET" = "半場-加時賽";
+
+"Image" = "圖片";
+
+"In Depth Stats" = "深度數據";
+
+"Individual Player Stats" = "球員個人數據";
+
+"Individual Players" = "球員數據";
+
 "Interception" = "攔截";
+
 "Kickoff" = "開球";
+
 "kickoff" = "開球";
+
 "L" = "負";
+
 "Led to Goal" = "導致進球";
+
 "Led to Shot" = "導致射門";
+
 "lineup" = "陣容";
+
 "Lineups" = "陣容";
-"Match update failed. Please check your network connection and try again." = "比賽更新失敗。請檢查網路連接，然後重試。";
+
+"Match update failed. Please check your network connection and try again." = "數據更新失敗。請檢查網絡連接，然後重試。";
+
 "Matches" = "比賽";
+
 "Midfielders" = "中場";
+
 "My Teams" = "我的球隊";
+
 "None" = "無";
+
 "Notification" = "通知";
+
 "Notifications" = "通知";
+
 "o.g." = "烏龍球";
+
 "Off Target" = "射偏";
+
 "Ok" = "確定";
+
 "OK" = "確定";
+
 "On Target" = "射正";
+
 "Other" = "其他";
-"Other match in another competition or season" = "另一賽事或賽季中的比賽";
-"Other match in same competition" = "同一賽事中的比賽";
+
+"Other match in another competition or season" = "另壹賽事或賽季中的比賽";
+
+"Other match in same competition" = "同壹項賽事中的比賽";
+
 "Other Teams" = "其他球隊";
+
 "Overall" = "總體";
+
 "P" = "出場";
+
 "p" = "點球";
+
 "Pass Combination" = "傳球配合";
+
 "Pass Combinations" = "傳球配合";
+
 "Passes" = "傳球";
-"Passes to %@ (%@ events)" = "傳球到 %@（ %@項賽事）";
+
+"Passes to %@ (%@ events)" = "傳球到 %@（%@項賽事）";
+
 "Passes to %@ (1 event)" = "傳球到 %@（1項賽事）";
+
 "Penalty Shoot Out: %@-%@" = "點球大戰： %@-%@";
+
 "Pens" = "點球";
+
 "Player Influence" = "球員影響力";
+
 "Players" = "球員";
+
 "PSO" = "點球大戰";
+
 "Pt" = "積分";
+
 "Remove" = "移除";
-"Same match, different chalkboard type" = "同一比賽，不同戰術黑板類型";
-"Same match, same chalkboard type" = "同一比賽，相同戰術黑板類型";
+
+"Same match, different chalkboard type" = "同壹比賽，不同戰術板類型";
+
+"Same match, same chalkboard type" = "同壹比賽，相同戰術黑板類型";
+
 "season" = "賽季";
+
 "See All" = "查看全部";
-"Share direct using apps you have installed or save to your Photos app for more options" = "使用已安裝的應用程式直接分享，或儲存到您的照片應用程式，查看更多選項";
+
+"Share direct using apps you have installed or save to your Photos app for more options" = "使用已安裝的應用程序直接分享，或保存到您的照片應用程序，查看更多選項";
+
 "Shot" = "射門";
+
 "Shot Assist" = "射門助攻";
+
 "Shots" = "射門";
-"Show %@ matches" = "顯示 %@場比賽";
-"stats" = "統計";
+
+"Show %@ matches" = "顯示％@場比賽 %@";
+
+"stats" = "數據";
+
 "Substitutes" = "替補";
+
 "Success" = "成功";
+
 "Suffered" = "被犯規次數";
+
 "Supported Teams" = "支持的團隊";
+
 "Table" = "積分榜";
+
 "Tackles" = "搶斷";
+
 "Take-Ons" = "過人";
+
 "Team Comparison" = "球隊比較";
+
 "Team Notifications" = "球隊通知";
+
 "Teams" = "球隊";
-"The update did not succeed, displayed information may be out of date." = "更新沒有成功，顯示的資訊可能過時。";
+
+"The update did not succeed, displayed information may be out of date." = "更新沒有成功，顯示的信息可能已過時。";
+
 "title" = "名稱";
+
 "Top Players" = "最佳球員";
+
 "Tutorial" = "教程";
+
 "Unable to download articles" = "無法下載文章";
+
 "Update Failed" = "更新失敗";
-"Used Substitutes" = "使用替補";
+
+"Used Substitutes" = "已登場替補";
+
 "v" = "對";
-"via @StatsZone" = "透過@StatsZone";
-"Video" = "視訊";
+
+"via @StatsZone" = "通過 @StatsZone";
+
+"Video" = "視頻";
+
 "View" = "查看";
+
 "View Match" = "查看比賽";
+
 "W" = "勝";
+
 "Attack" = "進攻";
+
 "Defence" = "防守";
+
 "All attempts" = "所有嘗試";
+
 "Goals" = "進球";
+
 "Big Chance" = "絕對得分機會";
-"Big Chances Created" = "絕對得分機會創造";
-"Passes Inside Penalty Area" = "傳球禁區內";
+
+"Big Chances Created" = "創造絕對得分機會";
+
+"Passes Inside Penalty Area" = "傳球至禁區內";
+
 "Penalty" = "點球";
+
 "Own Goals" = "烏龍球";
+
 "Inside Penalty Area" = "禁區內";
+
 "Outside Penalty Area" = "禁區外";
+
 "Woodwork" = "門框";
+
 "Free Kick" = "任意球";
+
 "From Set Play" = "來自定位球";
-"From Regular Play" = "來自常規戰術";
+
+"From Regular Play" = "來自陣地進攻";
+
 "From Fast Break" = "來自快攻";
-"From Individual Play" = "來自個人表演";
+
+"From Individual Play" = "來自個人能力";
+
 "Headed" = "頭球";
+
 "Right footed" = "右腳";
+
 "Left footed" = "左腳";
+
 "Volley" = "淩空";
+
 "Half Volley" = "半淩空";
+
 "Overhead" = "倒鉤";
+
 "Diving Header" = "魚躍沖頂";
+
 "All" = "全部";
+
 "Completed %" = "完成％";
+
 "Succeeded" = "成功";
+
 "Possession %" = "控球％";
+
 "Territory %" = "禁區％";
+
 "Received" = "傳球成功";
+
 "Attacking Third" = "前場";
+
 "Defensive Third" = "後場";
+
 "Middle Third" = "中場";
+
 "Assists" = "助攻";
+
 "Assists (Open Play)" = "助攻（運動戰）";
+
 "Assists (Set Play)" = "助攻（定位球）";
+
 "Chances Created" = "創造機會";
+
 "Chances Created (Open Play)" = "創造機會（運動戰）";
+
 "Chances Created (Set Play)" = "創造機會（定位球）";
+
 "Through Balls" = "直塞球";
+
 "Backpasses" = "回傳";
+
 "Long" = "長傳";
+
 "Short" = "短傳";
+
 "Forward" = "向前";
+
 "Backward" = "向後";
+
 "Square" = "橫傳";
+
 "Switch of Play" = "轉移球";
+
 "Goal Kick" = "球門球";
+
 "Throw-ins" = "界外球";
-"All (Dashboard)" = "全部（控制台）";
+
+"All (Dashboard)" = "全部（戰術板）";
+
 "Take-ons" = "過人";
+
 "Ball recoveries" = "反搶";
+
 "Attacking Third Passes" = "前場傳球";
+
 "Crosses" = "傳中";
+
 "Corners" = "角球";
-"Offside Passes" = "傳球越位";
+
+"Offside Passes" = "越位傳球";
+
 "Interceptions" = "攔截";
+
 "Clearances" = "解圍";
+
 "Headed Clearances" = "頭球解圍";
+
 "Blocked Crosses" = "封堵傳中";
-"Errors leading to shot" = "導致射門的失誤";
-"Errors leading to goal" = "導致進球的失誤";
+
+"Errors leading to shot" = "失誤導致射門";
+
+"Errors leading to goal" = "失誤導致丟球";
+
 "Yellow Cards" = "黃牌";
-"Second Yellow Cards" = "第二張黃片";
+
+"Second Yellow Cards" = "第二張黃牌";
+
 "Red Cards" = "紅牌";
+
 "All Stats" = "所有統計";
+
 "Attacking Aerial Duels" = "進攻爭搶頭球";
-"Attacking Dashboard" = "進攻控制台";
-"Away Team - Subs Not Used" = "客隊 - 未使用替補";
-"Away Team - Subs Used" = "客隊 - 使用替補";
+
+"Attacking Dashboard" = "進攻戰術板";
+
+"Away Team - Subs Not Used" = "客隊 - 未上場替補";
+
+"Away Team - Subs Used" = "客隊 - 上場替補";
+
 "Ball Recoveries" = "反搶";
+
 "Completed Passes" = "完成傳球";
+
 "Defensive Aerial Duels" = "防守爭搶頭球";
-"Defensive Dashboard" = "防守控制台";
+
+"Defensive Dashboard" = "防守戰術板";
+
 "Fouls Committed" = "犯規次數";
+
 "Fouls Suffered" = "被犯規次數";
-"Home Team - Subs Not Used" = "主隊 - 未使用替補";
-"Home Team - Subs Used" = "主隊 - 使用替補";
-"In Depth Team & Player Stats" = "球隊和球員深度統計";
+
+"Home Team - Subs Not Used" = "主隊 - 未上場替補";
+
+"Home Team - Subs Used" = "主隊 - 上場替補";
+
+"In Depth Team & Player Stats" = "球隊與球員深度統計";
+
 "Influence" = "影響力";
-"Key Events" = "關鍵賽事";
-"Match Info" = "比賽資訊";
+
+"Key Events" = "關鍵賽況";
+
+"Match Info" = "比賽信息";
+
 "Pass Combinations From" = "傳球配合從";
+
 "Pass Combinations To" = "傳球配合到";
+
 "Possession" = "控球";
+
 "Summary" = "匯總";
+
 "Take Ons" = "過人";
-"Team Stats" = "球隊統計";
+
+"Team Stats" = "球隊數據";
+
 "Top Players - Attacking Aerial Duels" = "最佳球員 - 進攻爭搶頭球";
+
 "Top Players - Attacking Third Passes" = "最佳球員 - 前場傳球";
+
 "Top Players - Ball Recoveries" = "最佳球員 - 反搶";
+
 "Top Players - Blocked Crosses" = "最佳球員 - 封堵傳中";
+
 "Top Players - Blocks" = "最佳球員 - 封堵射門";
+
 "Top Players - Chances Created" = "最佳球員 - 創造機會";
+
 "Top Players - Clearances" = "最佳球員 - 解圍";
+
 "Top Players - Corners" = "最佳球員 - 角球";
+
 "Top Players - Defensive Aerial Duels" = "最佳球員 - 防守爭搶頭球";
+
 "Top Players - Fouls Committed" = "最佳球員 - 犯規次數";
+
 "Top Players - Fouls Suffered" = "最佳球員 - 被犯規次數";
+
 "Top Players - Headed Clearances" = "最佳球員 - 頭球解圍";
+
 "Top Players - Interceptions" = "最佳球員 - 攔截";
+
 "Top Players - Tackles" = "最佳球員 - 搶斷";
+
 "Top Players - Take Ons" = "最佳球員 - 過人";
-"Australian A-League" = "澳大利亞足球超級聯賽";
+
+"Australian A-League" = "澳大利亞足球甲級聯賽";
+
 "Bundesliga" = "德國足球甲級聯賽";
+
 "Euro 2012" = "2012年歐洲足球錦標賽";
+
 "La Liga" = "西班牙足球甲級聯賽";
+
 "Ligue 1" = "法國足球甲級聯賽";
+
 "Premier League" = "英格蘭足球超級聯賽";
-"Serie A" = "義大利足球甲級聯賽";
+
+"Serie A" = "意大利足球甲級聯賽";
+
 "UEFA Champions League" = "歐洲冠軍聯賽";
-"UEFA Europa League" = "歐足聯歐洲聯賽";
+
+"UEFA Europa League" = "歐羅巴聯賽";
+
 "UEFA European Championships" = "歐洲足球錦標賽";
-"World Cup" = "世界盃";
+
+"World Cup" = "世界杯";
+
 "News Articles" = "新聞文章";
-"Pre-match facts" = "賽前事實";
-"Starting Lineups" = "先發陣容";
+
+"Pre-match facts" = "賽前統計";
+
+"Starting Lineups" = "首發陣容";
+
 "Match Kickoff" = "比賽開始";
+
 "Live Goals" = "即時比分";
+
 "Half Time Scores" = "半場比分";
+
 "Full Time Scores" = "全場比分";
-"\nWith your full access subscription you can view all data for all matches. By selecting teams below you will receive push notifications for those team's matches in the competitions covered by the app." = "\n通過完整的訪問訂閱，您可以查看所有匹配的所有數據。通過選擇下面的團隊，您將在該應用所涵蓋的比賽中收到針對這些團隊比賽的推送通知。";
-"\nYou'll be able to view all data and receive push notifications for your selected team's matches in the competitions covered by the app." = "\n您可以查看所有數據，並在應用所涵蓋的比賽中接收所選小組比賽的推送通知。";
+
+"\nWith your full access subscription you can view all data for all matches. By selecting teams below you will receive push notifications for those team's matches in the competitions covered by the app." = "\n通過完整的訪問訂閱，您可以查看所有比賽的所有數據。通過選擇球隊，您將在該應用所涵蓋的比賽中收到針對這些球隊比賽的推送通知。";
+
+"\nYou'll be able to view all data and receive push notifications for your selected team's matches in the competitions covered by the app." = "\n您可以查看所有數據，並在應用涵蓋的所有比賽中接收所選球隊比賽的推送通知。";
+
 "About the App" = "關於應用程序";
+
 "Academy" = "學院";
-"Access to the %@ v %@ match is not available under your current %@ subscription.\n\nAll subscriptions have a one calendar year duration from the date of purchase.\n\nTo upgrade your subscription, please choose one of the options below:" = "在當前的％@訂閱下，無法訪問％@ v％@匹配。\n \n所有訂閱都有自購買之日起的一個日曆年。\n \n要升級訂閱，請選擇其中一個選項下面：";
+
+"Access to the %@ v %@ match is not available under your current %@ subscription.\n\nAll subscriptions have a one calendar year duration from the date of purchase.\n\nTo upgrade your subscription, please choose one of the options below:" = "在當前的％@訂閱下，無法訪問％@ v％@比賽。\n \n所有的訂閱都有自購買之日起壹個自然年的有效期。\n \n要升級訂閱，請選擇下面其中壹個選項：";
+
 "All Matches" = "所有比賽";
+
 "App Introduction" = "應用介紹";
+
 "App Patron" = "應用程序贊助人";
+
 "Argument" = "論據";
+
 "Backpass" = "後通道";
+
 "Block By Hand" = "用手擋住";
+
 "Can't connect to App Store" = "無法連接到App Store";
+
 "Choose competition" = "選擇比賽";
+
 "Choose competitions" = "選擇比賽";
-"Choose team" = "選擇團隊";
-"Choose teams" = "選擇團隊";
-"Choose your competitions" = "選擇你的比賽";
-"Choose your teams" = "選擇你的團隊";
-"Compare team v team and player v player to go beyond subjective opinion of who had a good game." = "比較team v team和player v player來超越誰有好遊戲的主觀意見。";
+
+"Choose team" = "選擇球隊";
+
+"Choose teams" = "選擇球隊";
+
+"Choose your competitions" = "選擇妳的聯賽";
+
+"Choose your teams" = "選擇妳的球隊";
+
+"Compare team v team and player v player to go beyond subjective opinion of who had a good game." = "球隊球員數據對比，公證客觀得出誰表現更好的結論。";
+
 "Continue" = "繼續";
+
 "Crowd Interaction" = "人群交互";
+
 "Dangerous Play" = "危險的戲劇";
+
 "Deflected" = "偏轉";
-"Direct Free Kick" = "直接免費踢";
+
+"Direct Free Kick" = "直接任意球";
+
 "Dissent" = "異議";
+
 "Dive" = "潛水";
+
 "Double Tap to select a 15 minute period" = "雙擊以選擇15分鐘時間段";
-"Drag with one finger to move only the left or right handle" = "用一根手指拖動僅移動左手柄或右手柄";
+
+"Drag with one finger to move only the left or right handle" = "用壹根手指拖動只移動左手柄或右手柄";
+
 "Email us" = "發郵件給我們";
+
 "Encroachment" = "侵犯";
+
 "Enjoy!" = "請享用！";
+
 "Entering Field of Play" = "進入遊戲區域";
+
 "Excessive Celebration" = "過度慶祝";
+
 "Expires" = "過期";
+
 "FAQ" = "常問問題";
+
 "Fast Break" = "短暫休息";
+
 "Fight" = "鬥爭";
-"Follow @StatsZone on Twitter" = "在Twitter上關注@StatsZone";
+
+"Follow @StatsZone on Twitter" = "在Twitter上關註@StatsZone";
+
 "Foul" = "犯規";
+
 "Foul and Abusive Language" = "犯規和辱罵性語言";
-"Free Kick / Penalty" = "免費踢/罰";
-"From Corner" = "從角落";
-"From Free Kick" = "從免費踢";
+
+"Free Kick / Penalty" = "任意球/點球";
+
+"From Corner" = "從角球";
+
+"From Free Kick" = "從任意球";
+
 "Full Access" = "完全訪問";
+
 "Get started" = "開始吧";
+
 "Handball" = "手球";
+
 "Handling On Line" = "在線處理";
+
 "Header" = "頭";
+
 "Hint…" = "暗示…";
-"In addition to what is provided in One Team, this option also provides full access to a chosen competition's matches." = "除了一支球隊提供的內容之外，該選項還提供了對選定比賽的比賽的完整訪問權限。";
+
+"In addition to what is provided in One Team, this option also provides full access to a chosen competition's matches." = "除了壹支球隊提供的內容外，該選項還提供對選定比賽的完整進入權限。";
+
 "Injury" = "傷";
-"Intentional Assist" = "故意協助";
-"Keeper Touched" = "守護者觸動";
+
+"Intentional Assist" = "有意助攻";
+
+"Keeper Touched" = "守門員觸球";
+
 "Leaving Field of Play" = "離開遊戲場";
+
 "Left Foot" = "左腳";
+
 "Legals" = "法律事項";
-"Live data and push notifications for a single team only." = "僅為單個團隊提供實時數據和推送通知。";
+
+"Live data and push notifications for a single team only." = "僅提供單個球隊實時數據和推送通知。";
+
 "Lob" = "高球";
-"Love the app? Upgrade your status to App Patron" = "喜歡這款應用？將您的狀態升級到App Patron";
+
+"Love the app? Upgrade your status to App Patron" = "喜歡這款應用？歡迎贊助我們！";
+
 "Manage subscription" = "管理訂閱";
+
 "match" = "比賽";
-"Match Summary" = "匹配總結";
-"matches only" = "只匹配";
+
+"Match Summary" = "比賽總結";
+
+"matches only" = "僅比賽";
+
 "Not now" = "不是現在";
+
 "Off The Ball Foul" = "失球犯規";
-"One Competition & One Team" = "一個競爭和一個團隊";
-"One Team" = "一個團體";
-"Open Play" = "打開播放";
-"Open the Settings tab to customise and view the details of your subscription." = "打開設置標籤以自定義並查看訂閱的詳細信息。";
+
+"One Competition & One Team" = "壹個聯賽和壹個球隊";
+
+"One Team" = "壹個球隊";
+
+"Open Play" = "運動戰";
+
+"Open the Settings tab to customise and view the details of your subscription." = "打開設置標簽以自定義並查看訂閱的詳細信息。";
+
 "Opta Data License" = "Opta數據許可證";
+
 "Option" = "選項";
+
 "Other Body Part" = "其他身體部位";
+
 "Other Reason" = "其他原因";
-"Penalty Missed" = "懲罰錯過了";
+
+"Penalty Missed" = "點球罰失";
+
 "Persistent Infringement" = "持續侵權";
+
 "Pinch with two fingers to select a specific time period" = "用兩個手指捏合以選擇特定的時間段";
+
 "Please ensure you have a working internet connection and try again." = "請確保您有可用的互聯網連接，然後重試。";
-"Previous season matches can be viewed for free, you can browse the archive in the Competitions tab.\n\nPlease consider purchasing a subscription to access this season's matches and support the app!" = "上賽季的比賽可以免費觀看，您可以在比賽選項卡中瀏覽檔案。\n \n請考慮購買預訂以訪問本賽季的比賽並支持該應用程序！";
+
+"Previous season matches can be viewed for free, you can browse the archive in the Competitions tab.\n\nPlease consider purchasing a subscription to access this season's matches and support the app!" = "歷史比賽數據可免費查看，您可以在賽事列表中瀏覽選擇比賽。\n \n想查看本賽季的比賽數據，請訂閱支持該應用程序！";
+
 "Privacy Policy" = "隱私政策";
+
 "Pro" = "臨";
-"Professional Foul" = "職業犯規";
+
+"Professional Foul" = "技術犯規";
+
 "Provides access to %@" = "提供對％@的訪問";
-"Provides access to %@ matches only" = "僅提供對％@匹配的訪問";
+
+"Provides access to %@ matches only" = "僅提供對％@比賽的訪問";
+
 "Purchasing…" = "購買…";
+
 "Read on the web" = "在網上閱讀";
+
 "Referee Abuse" = "裁判濫用";
+
 "Requesting restore…" = "請求恢復...";
+
 "Restore Complete" = "恢復完成";
+
 "Restore purchases" = "恢復購買";
+
 "Right Foot" = "右腳";
+
 "Scramble" = "爭奪";
-"Select %@ competitions from the list below. You'll be able to view data for all matches in each of those competitions." = "從下面的列表中選擇％@比賽。您將能夠查看每場比賽中所有比賽的數據。";
+
+"Select %@ competitions from the list below. You'll be able to view data for all matches in each of those competitions." = "從下面的列表中選擇％@賽事。您將能夠查看每項賽事中所有比賽的數據。";
+
 "Select %@ teams from the list below." = "從下面的列表中選擇％@團隊。";
-"Select a competition from the list below, you'll be able to view data for all matches in that competition." = "從下面的列表中選擇一個比賽，您將能夠查看該比賽中所有比賽的數據。";
-"Select a team from the list below." = "從下面的列表中選擇一個團隊。";
+
+"Select a competition from the list below, you'll be able to view data for all matches in that competition." = "從下面的列表中選擇壹個賽事，您將能夠查看該賽事中所有比賽的數據。";
+
+"Select a team from the list below." = "從下面的列表中選擇壹個球隊。";
+
 "Set Piece" = "固定形式";
+
 "Settings" = "設置";
+
 "Sign up to our newsletter" = "註冊我們的時事通訊";
-"Single Tap to select a match period (e.g. first half)" = "單擊可選擇一個匹配週期（例如前半部分）";
-"Six Second Violation" = "六次違規";
-"Spitting" = "隨地吐痰";
-"Stats Zone Blog" = "統計區博客";
-"Stats Zone is an independent app and relies entirely on direct revenue from people like you.\n\nA subscription is required to access live matches and all matches in a league or competition which is still in progress. All subscriptions have a one calendar year duration from the date of purchase.\n\nPlease choose the option that best suits your interest level in football:" = "Stats Zone是一款獨立應用程序，完全依賴於像您這樣的人獲得的直接收入。\n \n需要訂閱才能訪問正在進行的聯賽或競賽中的現場比賽和所有比賽。所有訂閱從購買日起有一個日曆年。\n \n請選擇最適合您的興趣水平的選項：";
-"Stats Zone is the most in-depth live football stats app available.\nAnalyse every shot, pass, take-on, tackle, foul and much more." = "Stats Zone是可用的最深入的實況足球數據應用程序。\n分析每次投籃，傳球，接球，鏟球，犯規等等。";
+
+"Single Tap to select a match period (e.g. first half)" = "單擊可選擇壹個比賽時期（例如上半場）";
+
+"Six Second Violation" = "六秒違例";
+
+"Spitting" = "吐口水";
+
+"Stats Zone Blog" = "Stats Zone的博客";
+
+"Stats Zone is an independent app and relies entirely on direct revenue from people like you.\n\nA subscription is required to access live matches and all matches in a league or competition which is still in progress. All subscriptions have a one calendar year duration from the date of purchase.\n\nPlease choose the option that best suits your interest level in football:" = "Stats Zone是壹款獨立應用程序，完全依賴於像您這樣的人獲得的收入。\n \n需要訂閱才能訪問正在進行的聯賽或競賽中的現場比賽和所有比賽。所有訂閱從購買之日起有壹個自然年的有效期。\n \n請選擇最適合您的選項：";
+
+"Stats Zone is the most in-depth live football stats app available.\nAnalyse every shot, pass, take-on, tackle, foul and much more." = "Stats Zone是目前最有深度的實時足球數據應用程序。\n分析每次射門，傳球，過人，鏟球，犯規等等。";
+
+"Analyse every shot, pass, take-on, tackle, foul and much more" = "分析每次射門，傳球，過人，鏟球，犯規等等";
+
+"Compare team v team and player v player" = "球隊間比較與球員間比較";
+
+"Save chalkboard images or post them directly to your followers" = "保存戰術板圖片或直接發布給妳的粉絲";
+
 "Subscribe now" = "現在訂閱";
+
 "Subscribe Now!" = "現在訂閱！";
+
 "Subscription" = "訂閱";
+
 "Subscription Required" = "需要訂閱";
+
 "Subscription Successful!" = "訂閱成功！";
+
 "Subscription Updated" = "訂閱已更新";
+
 "Support & Feedback" = "支持和反饋";
-"Swerving" = "轉彎";
+
+"Swerving" = "弧線";
+
 "Tactical" = "戰術";
-"Tap on a player name to see their dashboard & full match stats." = "點擊玩家名稱以查看他們的儀表板和完整匹配統計信息。";
+
+"Tap on a player name to see their dashboard & full match stats." = "點擊球員名字以查看他們的場上戰術和全場比賽數據。";
+
 "Tap on the date to jump back to the most recent matches." = "點擊日期以跳回到最近的比賽。";
-"Tap the 'X' to reset to the full match selection" = "點擊'X'重置為完整匹配選項";
-"Teams & Matches" = "隊和比賽";
+
+"Tap the 'X' to reset to the full match selection" = "點擊'X'將時段恢復為全場比賽時段";
+
+"Teams & Matches" = "球隊和比賽";
+
 "Terms & Conditions" = "條款和條件";
+
 "text" = "文本";
+
 "The restore request completed, no additional active subscriptions were returned." = "恢復請求已完成，不會返回額外的有效訂閱。";
+
 "Throw-in Set Piece" = "投入套件";
+
 "Time Wasting" = "浪費時間";
-"Timeline" = "時間線";
+
+"Timeline" = "時間軸";
+
 "to" = "至";
-"Too many competitions" = "競爭太多";
+
+"Too many competitions" = "賽事太了多";
+
 "Too many teams" = "球隊太多了";
-"Triple Tap to select a 5 minute period" = "三重點擊以選擇一個5分鐘的時間段";
-"Try out a match" = "嘗試一場比賽";
+
+"Triple Tap to select a 5 minute period" = "點擊3次以選擇壹個5分鐘的時間段";
+
+"Try out a match" = "嘗試壹場比賽";
+
 "Unable to make payment" = "無法付款";
-"Unlocks everything. Live data for all matches and push notifications for up to five teams." = "解鎖一切。所有比賽的實時數據和推送通知最多五個小組。";
-"Unlocks everything. Live data for all matches and push notifications for up to ten teams. It is offered to provide a way for those of you who benefit professionally from the app or want to support it in a more substantial way." = "解鎖一切。所有匹配的實時數據和最多十個團隊的推送通知。它旨在為那些從應用程序中受益於專業人士或希望以更實質性方式支持您的人士提供一種方式。";
+
+"Unlocks everything. Live data for all matches and push notifications for up to five teams." = "解鎖全部內容。所有比賽的實時數據和最多五個球隊的推送通知";
+
+"Unlocks everything. Live data for all matches and push notifications for up to ten teams. It is offered to provide a way for those of you who benefit professionally from the app or want to support it in a more substantial way." = "解鎖壹切。所有比賽的實時數據和最多十個球隊的推送通知。它旨在為那些從應用程序中受益於專業人士或希望以更實質性方式支持您的人提供方法。";
+
 "Upgrade to Full Access" = "升級到完全訪問";
+
 "View App Intro" = "查看應用程序簡介";
+
 "Visit Opta's website >" = "訪問Opta的網站&gt;";
-"Want to show off your knowledge? Save chalkboard images or post them directly to your followers." = "想炫耀你的知識？保存黑板圖像或直接發布給你的追隨者。";
-"Welcome to Stats Zone!" = "歡迎來到統計區！";
-"With your subscription you can access every match in the app and can receive push notifications for up to %@ teams - select them in the Settings tab." = "通過訂閱，您可以訪問應用程序中的每個匹配項，並可以接收最多％@個小組的推送通知 - 在“設置”選項卡中選擇它們。";
+
+"Want to show off your knowledge? Save chalkboard images or post them directly to your followers." = "想炫耀妳的知識？保存戰術板圖像或直接發布給妳的粉絲。";
+
+"Welcome to Stats Zone!" = "歡迎來到Stats Zone！";
+
+"With your subscription you can access every match in the app and can receive push notifications for up to %@ teams - select them in the Settings tab." = "通過訂閱，您可以訪問應用程序中的每場比賽，並可以接收最多％@個球隊的推送通知 - 請在“設置”標簽中選擇它們。";
+
 "World Class" = "世界級";
-"You can select one competition only." = "您只能選擇一項比賽。";
-"You can select one team only." = "您只能選擇一個團隊。";
-"You can select up to %@ competitions only." = "您最多只能選擇％@比賽。";
-"You can select up to %@ teams only." = "您最多只能選擇％@個小組。";
-"You can upgrade to access all matches at any time in the Settings tab." = "您可以隨時通過“設置”選項卡進行升級以訪問所有匹配項。";
-"Your account cannot be used to make a purchase at this time. Please check that you have no restrictions activated in the Settings app under General > Restrictions." = "您的帳戶目前無法用於進行購買。請檢查您在“常規”&gt;“限制”下的“設置”應用中是否已激活任何限制。";
+
+"You can select one competition only." = "您只能選擇壹項賽事。";
+
+"You can select one team only." = "您只能選擇壹個球隊。";
+
+"You can select up to %@ competitions only." = "您最多只能選擇％@賽事。";
+
+"You can select up to %@ teams only." = "您最多只能選擇％@個球隊。";
+
+"You can upgrade to access all matches at any time in the Settings tab." = "您可以隨時通過“設置”標簽進行升級以訪問所有賽事。";
+
+"Your account cannot be used to make a purchase at this time. Please check that you have no restrictions activated in the Settings app under General > Restrictions." = "您的帳戶目前無法用於進行購買。請檢查您在“通用”&gt;“訪問限制”下的“設置”應用中是否已激活任何限制。";
+
 "Your subscription has been applied successfully." = "您的訂閱已成功應用。";
-"Not Headed" = "不是頭";
+
+"Not Headed" = "非頭球";
+
 "Goalkeeper Distribution" = "守門員分配";
-"Dispossessed" = "一無所有";
+
+"Dispossessed" = "非過人情況下被搶斷";
+
 "Chinese Super League" = "中超聯賽";
-"MLS" = "MLS";
+
+"MLS" = "美國職業足球大聯盟";
+
 "Beijing Renhe" = "北京人和";
-"Beijing Sinobo Guoan" = "北京中赫国安";
-"Changchun Yatai" = "长春亚泰";
-"Chongqing Dangdai Lifan" = "重庆当代力帆";
-"Dalian Yifang" = "大连一方";
-"Guangzhou Evergrande" = "广州恒大淘宝";
-"Guangzhou R&F" = "广州富力";
-"Guizhou Hengfeng" = "贵州恒丰";
-"Hebei China Fortune" = "河北华夏幸福";
-"Henan Jianye" = "河南建业";
-"Jiangsu Suning" = "江苏苏宁";
-"Shandong Luneng" = "山东鲁能泰山";
-"Shanghai Shenhua" = "上海绿地申花";
+
+"Beijing Sinobo Guoan" = "北京中赫國安";
+
+"Changchun Yatai" = "長春亞泰";
+
+"Chongqing Dangdai Lifan" = "重慶當代力帆";
+
+"Dalian Yifang" = "大連壹方";
+
+"Guangzhou Evergrande" = "廣州恒大淘寶";
+
+"Guangzhou R&F" = "廣州富力";
+
+"Guizhou Hengfeng" = "貴州恒豐";
+
+"Hebei China Fortune" = "河北華夏幸福";
+
+"Henan Jianye" = "河南建業";
+
+"Jiangsu Suning" = "江蘇蘇寧";
+
+"Shandong Luneng" = "山東魯能泰山";
+
+"Shanghai Shenhua" = "上海綠地申花";
+
 "Shanghai SIPG" = "上海上港";
-"Tianjin Quanjian" = "天津权健";
-"Tianjin Teda" = "天津泰达";
+
+"Tianjin Quanjian" = "天津權健";
+
+"Tianjin Teda" = "天津泰達";
+
 "Attacking Third (Succeeded)" = "前場 (成功)";
+
 "Defensive Third (Succeeded)" = "後場 (成功)";
+
 "Middle Third (Succeeded)" = "中場 (成功)";
+
 "Inside Penalty Area (Succeeded)" = "禁區內 (成功)";
+
 "Long (Succeeded)" = "長傳 (成功)";
+
 "Short (Succeeded)" = "短傳 (成功)";
+
 "Forward (Succeeded)" = "向前 (成功)";
+
 "Backward (Succeeded)" = "向後 (成功)";
+
 "Square (Succeeded)" = "橫傳 (成功)";
+
+"No" = "沒有";
+
+"one off payment" = "壹次性付款";
+
+"only" = "只要";
+
+"Open Settings now" = "立即打開設置";
+
+"per year" = "每年";
+
+"Purchase Successful!" = "購買成功！";
+
+"Push Notifications" = "推送通知";
+
+"Restore" = "恢復";
+
+"Subscribe to unlock all competitions" = "訂閱解鎖所有比賽";
+
+"The result is not all that matters" = "結果並不重要";
+
+"Unlock" = "解鎖";
+
+"Unlock competition only" = "只能解鎖賽事";
+
+"Unlock Content" = "解鎖內容";
+
+"Would you like to receive Stats Zone's stats and analysis via push notifications?" = "妳想收到Stats Zone的統計數據和分析嗎？";
+
+"You can enable push notifications in the Settings app" = "您可以在“設置”應用中啟用推送通知";
+
+"Your purchase has been applied successfully." = "您的購買已成功應用。";
+
+"Get Stats Zone's unique push notifications for matches involving teams you support of follow by selecting them below." = "通過下面的選擇獲取Stats Zone針對您支持的團隊的匹配的獨特推送通知。";
+"Share debug info" = "分享調試信息";

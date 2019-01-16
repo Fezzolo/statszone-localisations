@@ -265,7 +265,7 @@
 "Choose teams" = "Choisissez des équipes";
 "Choose your competitions" = "Choisissez vos compétitions";
 "Choose your teams" = "Choisissez vos équipes";
-"Compare team v team and player v player to go beyond subjective opinion of who had a good game." = "Comparez l'équipe v et le joueur v pour dépasser l'opinion subjective de qui a eu un bon match.";
+"Compare team v team and player v player to go beyond subjective opinion of who had a good game." = "Comparez équipes v équipes et joueurs v joueurs pour dépasser l'opinion subjective de qui a eu un bon match.";
 "Continue" = "Continuer";
 "Crowd Interaction" = "Interaction de la foule";
 "Dangerous Play" = "Jeu dangereux";
@@ -351,6 +351,9 @@
 "Stats Zone Blog" = "Stats Zone Blog";
 "Stats Zone is an independent app and relies entirely on direct revenue from people like you.\n\nA subscription is required to access live matches and all matches in a league or competition which is still in progress. All subscriptions have a one calendar year duration from the date of purchase.\n\nPlease choose the option that best suits your interest level in football:" = "Stats Zone est une application indépendante qui repose entièrement sur les revenus directs de personnes comme vous. \n \nUn abonnement est requis pour accéder aux matchs en direct et à tous les matchs d'une ligue ou d'une compétition en cours. Tous les abonnements ont une durée d'un an à compter de la date d'achat. \n \nVeuillez choisir l'option qui correspond le mieux à votre niveau d'intérêt dans le football:";
 "Stats Zone is the most in-depth live football stats app available.\nAnalyse every shot, pass, take-on, tackle, foul and much more." = "Stats Zone est l'application de statistiques de football en direct la plus détaillée disponible. \nAnalyse chaque tir, passe, engagement, tacle, faute et bien plus encore.";
+"Analyse every shot, pass, take-on, tackle, foul and much more" = "Analyse chaque tir, passe, engagement, tacle, faute et bien plus encore";
+"Compare team v team and player v player" = "Comparez équipes v équipes et joueurs v joueurs";
+"Save chalkboard images or post them directly to your followers" = "Enregistrez des images au tableau ou publiez-les directement sur vos abonnés";
 "Subscribe now" = "Abonnez-vous maintenant";
 "Subscribe Now!" = "Abonnez-vous maintenant!";
 "Subscription" = "Abonnement";
@@ -422,3 +425,22 @@
 "Forward (Succeeded)" = "En avant (Réussi)";
 "Backward (Succeeded)" = "En retrait (Réussi)";
 "Square (Succeeded)" = "Latéral (Réussi)";
+"No" = "Non";
+"one off payment" = "paiement unique";
+"only" = "seulement";
+"Open Settings now" = "Ouvrir les paramètres maintenant";
+"per year" = "par an";
+"Purchase Successful!" = "Achat réussi!";
+"Push Notifications" = "Notifications push";
+"Restore" = "Restaurer";
+"Subscribe to unlock all competitions" = "Abonnez-vous pour débloquer toutes les compétitions";
+"The result is not all that matters" = "Le résultat n'est pas tout ce qui compte";
+"Unlock" = "Ouvrir";
+"Unlock competition only" = "Débloquer la compétition seulement";
+"Unlock Content" = "Déverrouiller le contenu";
+"Would you like to receive Stats Zone's stats and analysis via push notifications?" = "Souhaitez-vous recevoir les statistiques et l'analyse de Stats Zone via des notifications push?";
+"You can enable push notifications in the Settings app" = "Vous pouvez activer les notifications push dans l'application Paramètres";
+"Your purchase has been applied successfully." = "Votre achat a été appliqué avec succès.";
+"Get Stats Zone's unique push notifications for matches involving teams you support of follow by selecting them below." = "Recevez les notifications push uniques de Stats Zone pour les matchs impliquant des équipes que vous supportez en les sélectionnant ci-dessous.";
+"Share debug info" = "Partager les informations de débogage";
+
